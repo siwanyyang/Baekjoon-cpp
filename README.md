@@ -11,5 +11,8 @@
 - 해결한 후, **다른 사람의 코드를 비교해보기**
 - 문제를 해결하는 데, 1시간이 넘으면 정답보기
 
+# My Tip
+- 코드에 주석으로 설명적어놓기 or 아이패드로 과정정리 후 README파일로 
+
 # Lincense
 [BeakjoonOnlineJudge](https://www.acmicpc.net/)
