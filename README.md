@@ -1,7 +1,7 @@
 # Baekjoon Algorithm Storage
 - 백준(Baekjoon) 알고리즘 문제 해결 후 저장하는 공간
 - 1일 1문제 목표
-- 주 언어: `C++`, `Python`
+- Language: `C++`
 
 # How to organize the code
 1. 문제를 읽고 문제가 요구하는 바를 이해하기
